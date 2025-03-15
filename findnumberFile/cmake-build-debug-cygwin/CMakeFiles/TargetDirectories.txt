@@ -1,0 +1,4 @@
+/cygdrive/d/RaspberryDATAandPROJECT/project/findnumberFile/cmake-build-debug-cygwin/CMakeFiles/findnumberFile.dir
+/cygdrive/d/RaspberryDATAandPROJECT/project/findnumberFile/cmake-build-debug-cygwin/CMakeFiles/main.dir
+/cygdrive/d/RaspberryDATAandPROJECT/project/findnumberFile/cmake-build-debug-cygwin/CMakeFiles/edit_cache.dir
+/cygdrive/d/RaspberryDATAandPROJECT/project/findnumberFile/cmake-build-debug-cygwin/CMakeFiles/rebuild_cache.dir

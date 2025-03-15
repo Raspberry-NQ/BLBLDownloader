@@ -1,0 +1,4 @@
+C:\Users\Raspberry\AppData\Local\JetBrains\CLion2022.2\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/cygdrive/c/Program Files/JetBrains/CLion 2022.2.5/bin/ninja/cygwin/ninja.exe" -G Ninja -S /cygdrive/d/RaspberryDATAandPROJECT/project/findnumberFile -B /cygdrive/d/RaspberryDATAandPROJECT/project/findnumberFile/cmake-build-debug-cygwin
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/d/RaspberryDATAandPROJECT/project/findnumberFile/cmake-build-debug-cygwin

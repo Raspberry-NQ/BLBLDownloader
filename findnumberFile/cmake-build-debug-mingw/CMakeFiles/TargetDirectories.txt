@@ -1,0 +1,4 @@
+D:/RaspberryDATAandPROJECT/project/findnumberFile/cmake-build-debug-mingw/CMakeFiles/findnumberFile.dir
+D:/RaspberryDATAandPROJECT/project/findnumberFile/cmake-build-debug-mingw/CMakeFiles/main.dir
+D:/RaspberryDATAandPROJECT/project/findnumberFile/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+D:/RaspberryDATAandPROJECT/project/findnumberFile/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir
